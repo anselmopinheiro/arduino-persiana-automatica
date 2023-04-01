@@ -9,9 +9,9 @@ Será possível alternar entre o modo manual e o modo automático. No display é
 
 Vídeos
 
-[Vídeo 1 - montagem do circuito] (https://youtu.be/_r3TXRm8Rcc)
+Vídeo 1 - montagem do circuito [https://youtu.be/_r3TXRm8Rcc]
 
-[Vídeo 2 - construção da maquete] (https://youtu.be/4mcQBOiD2ZQ)
+Vídeo 2 - construção da maquete [https://youtu.be/4mcQBOiD2ZQ]
 
-[Vídeo 3 - produto final] (https://youtu.be/7_Uv_9dV_H4)
+Vídeo 3 - produto final [https://youtu.be/7_Uv_9dV_H4]
 
