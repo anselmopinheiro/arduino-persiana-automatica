@@ -1,6 +1,6 @@
-# arduino-persiana-automatica
+# Arduino. Persiana automatica
 
-Persiana automática (persiana automática parte 2/3)
+Trabalho desenvolvido na ação de formação Programação com Arduinos, realizado pela ANPRI, entre janeiro de abril de 2023
 
 Neste projeto, pretende-se implementar um sistema de controlo automático para persianas.
 O sistema irá abrir ou fechar a persiana, consoante a intensidade de luz no exterior de uma habitação.
