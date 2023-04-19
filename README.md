@@ -11,7 +11,7 @@ Vídeos
 
 Vídeo 1 - montagem do circuito [https://youtu.be/_r3TXRm8Rcc]
 
-Vídeo 2 - construção da maquete [https://youtu.be/4mcQBOiD2ZQ]
+Vídeo 2 - construção da maquete [https://youtu.be/ke80WIpxoxc]
 
 Vídeo 3 - produto final [https://youtu.be/7_Uv_9dV_H4]
 
